@@ -659,6 +659,9 @@ footer .social a:hover {
     grid-auto-flow: column;
     justify-content: center;
   }
+  #contact ul li {
+    font-size: 1.1rem;
+  }
 
   /* FOOTER */
   footer.section {
